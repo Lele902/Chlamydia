@@ -1,0 +1,24 @@
+  h1{
+	color:rgb(3.69,103);
+	text-align: center;
+	font-size: 70px
+
+}
+p{ text-align:center;
+font-color:blue;
+font-size: 40px; 
+}
+nav{
+	text-align: center;
+	font-size: 30px;
+}
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+
+	background-color:rgb(33,166,234); 
+}
